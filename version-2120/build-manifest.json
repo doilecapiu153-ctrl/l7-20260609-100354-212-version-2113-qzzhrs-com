@@ -1,0 +1,20 @@
+{
+  "site_title": "国产影视在线免费观看大全_支持超清画质播放-手机影视网",
+  "logo_name": "手机影视网",
+  "movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_count": 8,
+  "category_counts": {
+    "爱情片": 250,
+    "喜剧片": 250,
+    "动作片": 250,
+    "悬疑片": 250,
+    "古装片": 250,
+    "科幻片": 250,
+    "都市剧": 250,
+    "历史剧": 250
+  },
+  "m3u8_sources_extracted_from_original_js": 20,
+  "cover_rule": "第 N 条影片使用 X.jpg，X = ((N - 1) % 150) + 1；图片文件不随 ZIP 打包。",
+  "generated_files_note": "所有 HTML 页面均已插入百度统计脚本，页面代码保持多行清晰格式。"
+}
